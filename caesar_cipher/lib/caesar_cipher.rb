@@ -33,7 +33,7 @@ class CaesarCipher
 	end
 end
 
-cc = CaesarCipher.new()
-puts cc.caesar_cipher("What a string!", 26)
+# cc = CaesarCipher.new()
+# puts cc.caesar_cipher("What a string!", 26)
 
 # puts caesar_cipher("What a string!", 30)
